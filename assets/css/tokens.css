@@ -1,0 +1,25 @@
+/* assets/css/tokens.css — COLORS + FONTS only. The single source of truth.
+   Edit this one file to re-skin the whole site (EN + ES stay in sync). */
+:root{
+  /* Brand palette — sober, minimalist, dark (per client) */
+  --bg:        #0A0C10;   /* page background (near-black) */
+  --ink:       #F2F3F5;   /* main text (off-white) */
+  --accent:    #E0A458;   /* primary accent: warm gold (digital-assets) */
+  --accent-2:  #C6863A;   /* deeper gold for gradients/hover */
+  --muted:     #9AA1AC;   /* secondary text */
+  --surface:   #12151C;   /* cards / alt sections */
+  --surface-2: #171B24;   /* elevated cards / hovers */
+  --border:    rgba(255,255,255,.09);   /* hairline borders */
+  --border-strong: rgba(255,255,255,.16);
+
+  /* Footer credit colors (read by the EKY credit logo — see footer-credit.md) */
+  --footer-bg: #0A0C10;   /* footer background */
+  --footer-fg: #F2F3F5;   /* footer text */
+
+  /* Fonts */
+  --font-display: 'Space Grotesk', system-ui, -apple-system, Segoe UI, sans-serif;
+  --font-body:    'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+
+  /* Layout */
+  --max: 1120px;
+}

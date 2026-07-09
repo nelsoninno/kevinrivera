@@ -1,0 +1,16 @@
+{
+  "name": "Kevin Rivera",
+  "short_name": "Kevin Rivera",
+  "description": "Digital assets and blockchain specialist and growth partner in El Salvador.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0C10",
+  "theme_color": "#0A0C10",
+  "lang": "en",
+  "icons": [
+    {"src":"/favicon-192x192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"/favicon-512x512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"/apple-touch-icon.png","sizes":"180x180","type":"image/png","purpose":"any"}
+  ]
+}
