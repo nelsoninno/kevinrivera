@@ -116,6 +116,7 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
 .venture .vlink:hover{color:var(--accent)}
 .venture--soon{opacity:.9}
 .venture--soon .venture-media{border-style:dashed}
+.venture--soon .venture-media img{object-position:center 82%}
 @media (max-width:680px){.venture{grid-template-columns:1fr}.venture-media{max-height:240px}}
 
 /* ---------- Publications ---------- */
